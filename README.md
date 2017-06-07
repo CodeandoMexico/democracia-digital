@@ -78,8 +78,6 @@ ___
 **4. Puesta en común**
 >Cada mesa presentará el resultado de su análisis y se abrirá una ronda de discusión colectiva para cerrar el día.
 
-___
-
 
 ####Sesión 1.2 - domingo 11 de junio: 
 
@@ -91,7 +89,7 @@ ___
 > Nos distribuiremos entre las mesas de trabajo donde generarán una propuesta de hoja de ruta o *roadmap* para desarrollar los componentes propios de cada eje, desde los más indispensables hasta los oportunos pero menos relevantes.  
 
 
-**3. Puesta en común para *roadmap* **
+**3. Puesta en común para *roadmap*  **
 > * Cada mesa presentará una propuesta sobre la hoja de ruta que definió para desarrollar sus componentes propios de cada eje. 
 * Se abrirá una ronda de discusión colectiva para deliberar sobre la mejor hoja de ruta para desarrollar los componentes de la o las herramientas a construir. 
 *Se propone utilizar [Turnómetro](http://www.turnometro.org/) y [sli.do](https://www.sli.do/) para gestionar la discusión colectiva. 
