@@ -1,6 +1,7 @@
 # Hackatón Democracia Digital #
 
-![Imagen portada](http://imgur.com/a/6o8rI.jpg)
+![portada-800](https://user-images.githubusercontent.com/6744123/26882500-3671294a-4b60-11e7-99d4-8ef43f7fdcea.jpg)
+
 
 ----
 
