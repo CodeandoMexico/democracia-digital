@@ -45,7 +45,7 @@ Un hackatón colaborativo donde crearemos la aplicación móvil para recolectar 
 ### FASE 1 - Ideación
 >Intercambio de experiencias, diagnóstico por mesas de trabajo y propuestas colectivas de componentes a desarrollar. 
 ___
-####Sesión 1.1 - sábado 10 de junio: 
+#### Sesión 1.1 - sábado 10 de junio: 
 
 **1. Presentaciones iniciales**
 
@@ -81,7 +81,7 @@ ___
 ___
 
 
-####Sesión 1.2 - domingo 11 de junio: 
+#### Sesión 1.2 - domingo 11 de junio: 
 
 **1. Recapitulación**
 
