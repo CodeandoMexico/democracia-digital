@@ -15,7 +15,7 @@ Un hackatón colaborativo donde crearemos la aplicación móvil para recolectar 
 
 * La principal característica es que será colaborativo y no competitivo, es decir, que nos organizaremos de tal modo que todos los participantes podamos aportar parte de valor al resultado y obtengamos el crédito correspondiente. 
 
-* La tecnología desarrollada será operada por una asociación civil sin fines de lucro que permitirá sostener su operación y mejoras, y tendrá un consejo formado por varias organizaciones de la sociedad civil para asegurar el funcionamiento esperado.
+* La tecnología desarrollada podría ser operada por una asociación civil sin fines de lucro, para sostener su operación y mejoras, y tener un consejo formado por varias organizaciones de la sociedad civil para asegurar el funcionamiento esperado. Durante los primeros días se definirán los componentes más importantes y la ruta ideal para desarrollar y gestionar su uso.
  
 ### ¿Dónde?
 [FabLab Impact](https://www.facebook.com/fablabimpact/) (República de Perú #88, 06010, Ciudad de México)
