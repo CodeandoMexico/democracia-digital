@@ -97,8 +97,8 @@ ___
 
 
 **4. Migración a espacios digitales**
-> * Se acordarán los espacios y mecanismos para continuar la discusión y comenzar la colaboración alrededor del desarrollo de los principales componentes acordados.
-> * Cada mesa eligirá a un equipo responsable de traducir las conclusiones generales y de su mesa sobre su eje a [*issues* en GitHub](https://github.com/CodeandoMexico/democracia-digital/issues).
+>Se acordarán los espacios y mecanismos para continuar la discusión y comenzar la colaboración alrededor del desarrollo de los principales componentes acordados.
+>Cada mesa eligirá a un equipo responsable de traducir las conclusiones generales y de su mesa sobre su eje a [*issues* en GitHub](https://github.com/CodeandoMexico/democracia-digital/issues).
 
 
 ### FASE 2 - Desarrollo 
