@@ -88,12 +88,10 @@ ___
 **2. *Roadmap* por mesas de trabajo**
 > Nos distribuiremos entre las mesas de trabajo donde generarán una propuesta de hoja de ruta o *roadmap* para desarrollar los componentes propios de cada eje, desde los más indispensables hasta los oportunos pero menos relevantes.  
 
-
 **3. Puesta en común para *roadmap*  **
 > * Cada mesa presentará una propuesta sobre la hoja de ruta que definió para desarrollar sus componentes propios de cada eje. 
 * Se abrirá una ronda de discusión colectiva para deliberar sobre la mejor hoja de ruta para desarrollar los componentes de la o las herramientas a construir. 
 *Se propone utilizar [Turnómetro](http://www.turnometro.org/) y [sli.do](https://www.sli.do/) para gestionar la discusión colectiva. 
-
 
 **4. Migración a espacios digitales**
 > * Se acordarán los espacios y mecanismos para continuar la discusión y comenzar la colaboración alrededor del desarrollo de los principales componentes acordados.
