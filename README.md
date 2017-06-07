@@ -1,6 +1,6 @@
 # Hackatón Democracia Digital #
 
-![Imagen portada](https://octodex.github.com/images/yaktocat.png)
+![Imagen portada](http://imgur.com/a/6o8rI.jpg)
 
 ----
 
