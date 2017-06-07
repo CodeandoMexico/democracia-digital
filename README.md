@@ -1,4 +1,5 @@
 # Hackatón Democracia Digital #
+![Imagen portada](http://imgur.com/a/6o8rI)
 
 ----
 
