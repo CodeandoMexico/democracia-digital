@@ -36,7 +36,7 @@ Un hackatón colaborativo donde crearemos la aplicación móvil para recolectar 
 
 **2. Asiste a las sesiones** del [Hackatón Democracia Digital](https://www.facebook.com/events/887231184742367/894530524012433/).
 
-**3. Participa y colabora** por canales digitales ([GitHub Issues](https://github.com/CodeandoMexico/democracia-digital/issues) y [democracia-digital en Slack](http://slack.codeandomexico.org/)). Consulta y comparte [referencias útiles](https://github.com/CodeandoMexico/democracia-digital/wiki/4.-Referencias-%C3%BAtiles) en la [wiki](https://github.com/CodeandoMexico/democracia-digital/wiki) de este proyecto.
+**3. Participa y colabora** por canales digitales ([documentos colaborativos](https://drive.google.com/drive/folders/0B90a2gjjiM9vbkFrT090UlAtLWc?usp=sharing), [GitHub Issues](https://github.com/CodeandoMexico/democracia-digital/issues) y [democracia-digital en Slack](http://slack.codeandomexico.org/)). Consulta y comparte [referencias útiles](https://github.com/CodeandoMexico/democracia-digital/wiki/4.-Referencias-%C3%BAtiles) en la [wiki](https://github.com/CodeandoMexico/democracia-digital/wiki) de este proyecto.
 
 
 ## Dinámica del Hackatón
