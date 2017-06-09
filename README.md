@@ -31,7 +31,7 @@ Un hackatón colaborativo donde crearemos la aplicación móvil para recolectar 
 
 ## ¿Cómo puedo participar?
 
-**1. Regístrate** en [bit.ly/HackDemocraciaDigital](bit.ly/HackDemocraciaDigital)    
+**1. Regístrate** en [bit.ly/HackDemocraciaDigital](https://codeandomexico.typeform.com/to/JNBUaR)    
  *La participación está limitada a 100 personas por el aforo del lugar.
 
 **2. Asiste a las sesiones** del [Hackatón Democracia Digital](https://www.facebook.com/events/887231184742367/894530524012433/).
