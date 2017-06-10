@@ -42,7 +42,7 @@ Un hackatón colaborativo donde crearemos la aplicación móvil para recolectar 
 ## Dinámica del Hackatón
 
 
-### FASE 1 - Ideación
+### FASE 1 - Ideación ([¡Participa en los documentos colaborativos!](https://drive.google.com/drive/folders/0B90a2gjjiM9vbkFrT090UlAtLWc?usp=sharing))
 >Intercambio de experiencias, diagnóstico por mesas de trabajo y propuestas colectivas de componentes a desarrollar. 
 ___
 #### Sesión 1.1 - sábado 10 de junio: 
