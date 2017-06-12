@@ -85,20 +85,25 @@ ___
 
 **1. Recapitulación**
 
->Recapitulación del trabajo del día anterior y presentación de la dinámica para generar el *roadmap* de desarrollo. 
+>Recapitulación sobre los avances del día anterior y presentación de las dinámicas en las que se trabajará. 
 
-**2. *Roadmap*, *wireframes* y modelación de API por mesas de trabajo**
-> Nos distribuiremos entre las mesas de trabajo donde generarán una propuesta de hoja de ruta o *roadmap* para desarrollar los componentes propios de cada eje, desde los más indispensables hasta los oportunos pero menos relevantes.  
+**2. *Design sprint*: *Empieza al final***
+> A partir de las conclusiones del día anterior, se generará una [dinámica](https://www.youtube.com/watch?v=7zOBMxRYJ7I) para evaluar las oportunidades y riesgos más importantes a largo plazo que podría detonar el desarrollo de esta herramienta.
 
+**3. *Design sprint*: Discusión con expertos**
+> Se retomarán ciertas discusiones más especializadas sobre algunos retos a considerar para complementar las propuestas hechas hasta el momento.
 
-**3. Puesta en común sobre *roadmap*, *wireframes* y modelación de API**
->Cada mesa presentará una propuesta sobre la hoja de ruta que definió para desarrollar sus componentes propios de cada eje. Se abrirá una ronda de discusión colectiva para deliberar sobre la mejor hoja de ruta para desarrollar los componentes de la o las herramientas a construir. 
-*Se propone utilizar [Turnómetro](http://www.turnometro.org/) y [sli.do](https://www.sli.do/) para gestionar la discusión colectiva. 
+**4. *Design sprint*: Escoger un objetivos principales a incluir en el prototipo  **
+> Se definirán los objetivos prioritarios a considerar para pasar a la etapa de bocetaje. Se identificarn los componentes mínimos viables para un prototipo funcional.
 
+**5. *Design sprint*: Bocetaje de *wireframes***
+> Se dibujarán propuestas indviduales de bocetos o *wireframes* a partir de los objetivos identificados.
 
-**4. Migración a espacios digitales**
->Se acordarán los espacios y mecanismos para continuar la discusión y comenzar la colaboración alrededor del desarrollo de los principales componentes acordados.
->Cada mesa eligirá a un equipo responsable de traducir las conclusiones generales y de su mesa sobre su eje a [*issues* en GitHub](https://github.com/CodeandoMexico/democracia-digital/issues).
+**6. *Design sprint*: Puesta en común de bocetos**
+> [*The sticky decision*](https://www.youtube.com/watch?v=7BKBFOOKbNo) Se pegarán en las paredes las propuestas de cada persona de bocetos o *wireframes* sobre los objetivos identificados. Se evaluará cada una en silencio y después de abrirá una discusión para identificar los mejores componentes que ofrece cada una y cuáles se tomarán en consideración para consturir una propuesta final de boceto.
+
+**7. Migración a espacios digitales**
+> Se acordarán los espacios y mecanismos para continuar la discusión y comenzar la colaboración alrededor del desarrollo de los principales componentes acordados y los bocetos generados. Se definirán mecanismos para traducir las conclusiones generales y de cada eje a [*issues* en GitHub](https://github.com/CodeandoMexico/democracia-digital/issues).
 
 
 ### FASE 2 - Desarrollo 
