@@ -93,7 +93,7 @@ ___
 **3. *Design sprint*: Discusión con expertos**
 > Se retomarán ciertas discusiones más especializadas sobre algunos retos a considerar para complementar las propuestas hechas hasta el momento.
 
-**4. *Design sprint*: Escoger un objetivos principales a incluir en el prototipo  **
+**4. *Design sprint*: Escoger un objetivos principales a incluir en el prototipo**
 > Se definirán los objetivos prioritarios a considerar para pasar a la etapa de bocetaje. Se identificarn los componentes mínimos viables para un prototipo funcional.
 
 **5. *Design sprint*: Bocetaje de *wireframes***
