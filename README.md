@@ -23,7 +23,7 @@ Un hackatón colaborativo donde crearemos la aplicación móvil para recolectar 
 
 **1. Regístrate** y consulta las siguientes Hack Nights donde trabajaremos en democracia-digital en [Meetup](https://www.meetup.com/CodeandoCDMX/?from=ref).
 
-**2. Consulta** los avances que se han tenido hasta ahora en los documentos de Diagnóstico, Ideación y el resto de documentos colaborativos. Revisa las [tareas](https://github.com/CodeandoMexico/democracia-digital/projects) y [discusiones](https://github.com/CodeandoMexico/democracia-digital/issues) más recientes.
+**2. Consulta** los avances que se han tenido hasta ahora en los documentos de [Diagnóstico](https://github.com/CodeandoMexico/democracia-digital/blob/master/docs/diagnostico_democracia-digital.md), Ideación y el resto de [documentos colaborativos](https://drive.google.com/drive/folders/0B90a2gjjiM9vbkFrT090UlAtLWc). Revisa las [tareas](https://github.com/CodeandoMexico/democracia-digital/projects) y [discusiones](https://github.com/CodeandoMexico/democracia-digital/issues) más recientes.
 
 **3. Contribuye** presencialmente en las próximas [Hack Nights]((https://www.meetup.com/CodeandoCDMX/?from=ref) o por canales digitales ( [GitHub Issues](https://github.com/CodeandoMexico/democracia-digital/issues), [democracia-digital en Slack](http://slack.codeandomexico.org/) y [documentos colaborativos](https://drive.google.com/drive/folders/0B90a2gjjiM9vbkFrT090UlAtLWc?usp=sharing)). Consulta y comparte [referencias útiles](https://github.com/CodeandoMexico/democracia-digital/wiki/4.-Referencias-%C3%BAtiles) en la [wiki](https://github.com/CodeandoMexico/democracia-digital/wiki) de este proyecto.
 
