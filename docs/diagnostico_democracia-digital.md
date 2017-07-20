@@ -1,5 +1,5 @@
-### Empecemos al final (*Start at the end*) ###
-| ¿Qué es lo mejor que podría detonar esta herramienta a largo plazo? | ¿Qué es lo peor que podría detonar esta herramienta a largo plazo? |
+### Empecemos al final (*Start at the end*) ### 
+| ¿Qué es lo mejor que podría detonar esta herramienta a largo plazo? ✔️ | ¿Qué es lo peor que podría detonar esta herramienta a largo plazo? ✖️ |
 | -- | --- |
 | Mayor competencia entre candidaturas independientes gracias a la accesibilidad que la herramienta les permite (la elección anterior sólo 126 candidaturas lograron el registro en todo el país).  | El INE no acepta la validez de las firmas recolectadas por este medio. |
 | La herramienta funciona para mecanismos de participación a nivel  local y federal, adecuándose a sus legislaciones. | El INE interpreta la ley en contra de su funcionamiento. |
