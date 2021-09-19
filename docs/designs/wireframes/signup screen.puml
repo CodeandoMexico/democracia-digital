@@ -1,0 +1,22 @@
+@startuml
+'https://plantuml.com/salt
+
+salt
+title <color:Blue>Sign-up screen
+{
+  correo electrónico<color:Red>*</color>|"ejemplo: francisco@hotmail.com"
+  redes sociales| [facebook]
+'  los datos de su credencial de elector
+  nombre completo<color:Red>*</color>|"ejemplo: Fancisco Rubaldaba Conde"
+  clave de elector<color:Red>*</color>|"ejemplo: 123ADRE23"
+  estado<color:Red>*</color>: |^Selecciona tu estado^
+  sección<color:Red>*</color>|"ejemplo:123"
+  código postal|"ejemplo: 90000"
+  firma digital<color:Red>*</color> | {"C:/Escritorio/mi e-firma.crt"|[subir]}
+  número telefónico: |"ejemplo: 222-12-34-564"
+'  código de verificación:|"        "
+  .|.
+  <size:8>al dar clicl a este botón confirmará su cuenta con un |<size:8>código de verificación que recibirá vía SMS o email
+  [Registrarse]
+}
+@enduml
