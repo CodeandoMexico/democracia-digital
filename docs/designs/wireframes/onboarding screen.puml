@@ -1,0 +1,25 @@
+@startuml
+'https://plantuml.com/salt
+
+salt
+{#
+    title <color:Blue>Onboarding screen
+'    barra de búsqueda
+    {
+        Filtrar por:|.| ^tipo de iniciativa^|^estado ^|^palabra clave ^
+    }
+'    listado de iniciativas
+    {
+      democracia digital | <&person>PepeVictorio24| - 34 firmas
+      <size:10>Seguir iniciativa en redes sociales</size>|.|<size:10><color:Blue>__ver contenido completo__</color></size>
+      [                facebook]|[twitter]| [<U+222E>]
+      [<size:10>firmar a título personal</size>]|.|[<size:10>sumarse como brigadista</size>]
+    }
+    {
+      democracia digital | <&person>Gelatino93| - 13 firmas
+      <size:10>Seguir iniciativa en redes sociales</size>|.|<size:10><color:Blue>__ver contenido completo__</color></size>
+      [                facebook]|[twitter]| [<U+222E>]
+      [<size:10>firmar a título personal</size>]|.|[<size:10>sumarse como brigadista</size>]
+    }
+}
+@enduml
